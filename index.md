@@ -13,7 +13,9 @@ Exploration Geophysics, Seismology, high performance computing, applied math.
 ACADEMICS
 
 Ph.D., University of Hawaii at Manoa
+
 M.S., Indian School of Mines (now Indian Institute of Technology)
+
 B.S., Indian School of Mines( now Indian Institute of Technology)
 
 

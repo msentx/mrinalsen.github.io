@@ -1,37 +1,21 @@
 ## Welcome to Mrinal Sen's Home Page
 
+**Mrinal K. Sen
+PROFESSOR AND JACKSON CHAIR IN APPLIED SEISMOLOGY / ASSOCIATE DIRECTOR **
+
+￼
+Mrinal is a specialist in seismic wave propagation, including anisotropy, inversion, and uncertainty quantification. He has extended seismic plane wave analysis methods to anisotropic media and developed novel methods for characterizing unconventional reservoirs. Mrinal has carried out rigorous error analysis of finite element and finite difference methods and developed several efficient finite difference operators for modeling and imaging.
+
+INTERESTS
+Exploration Geophysics, Seismology, high performance computing, applied math.
+
+ACADEMICS
+Ph.D., University of Hawaii at Manoa
+M.S., Indian School of Mines (now Indian Institute of Technology)
+B.S., Indian School of Mines( now Indian Institute of Technology)
+
+
 You can use the [editor on GitHub](https://github.com/msentx/mrinalsen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Hello World1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msentx/mrinalsen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
